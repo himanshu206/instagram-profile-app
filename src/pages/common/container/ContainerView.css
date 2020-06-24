@@ -1,0 +1,4 @@
+.container-view {
+  height: calc(100% - 3rem);
+  overflow-y: scroll;
+}

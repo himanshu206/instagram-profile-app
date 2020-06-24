@@ -1,0 +1,23 @@
+.comment-box {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  border-top: 1px solid lightgrey;
+}
+
+.comment-box input {
+  height: 1.5rem;
+  padding: 0.5rem;
+  width: 80%;
+  border: none;
+  outline: none;
+  font-size: 1.1rem;
+}
+
+.comment-box__save-btn {
+  flex-grow: 1;
+  height: auto;
+  background: white;
+  color: dodgerblue;
+}

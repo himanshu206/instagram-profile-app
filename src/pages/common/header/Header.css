@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  position: absolute;
+  width: 100%;
+  justify-content: space-between;
+  background-color: whitesmoke;
+  height: 3rem;
+  padding: 0.5rem 1rem;
+  align-items: center;
+  box-sizing: border-box;
+  border-bottom: 1px solid lightgrey;
+  z-index: 1;
+}
+
+.header__back-btn {
+  cursor: pointer;
+}
+
+.header__title {
+  font-weight: 600;
+  margin: 0 auto;
+}

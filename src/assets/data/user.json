@@ -1,0 +1,63 @@
+{
+  "id": 1,
+  "username": "sachin_1992",
+  "name": "Sachin Tendulkar",
+  "summary": "Sachin Ramesh Tendulkar is a former international cricketer from India and a former captain of the Indian national team. He is widely regarded as one of the greatest batsmen in the history of cricket.",
+  "profilePhotoUrl": "https://www.freewalldownload.com/sachin-tendulkar/amazing-sachin-tendulkar-cute-smile-face-look-still-mobile-hd-background-free-desktop-images.jpg",
+  "statistics": {
+    "posts": 100,
+    "followers": 200,
+    "following": 200
+  },
+  "website": "http://www.sachintendulkar.in/",
+  "gallery": [
+    {
+      "id": 1,
+      "imageUrl": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c171004/sachin-tendulkar.jpg"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2020/5/13/Kohli-Sachin_571_855.jpg"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://img.etimg.com/thumb/msid-72033478,width-643,imgsize-222096,resizemode-4/sachin-tendulkar.jpg"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj_SKztFsShoLlp3OnQSPPQ4IPu0--VTc8KGNUpDWXL4XxBzdt&s"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://st2.cricketcountry.com/wp-content/uploads/cricket/image_20121226091513.jpg"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://cdn.wisden.com/wp-content/uploads/2020/06/GettyImages-630835970-e1592477771804-680x383.jpg"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://gumlet.assettype.com/nationalherald%2F2018-04%2F516cafc2-6bbe-441c-baef-608d8b2e4a76%2Fthat_time_when_i_lied_to_watch_sachin_tendulkar_play.jpg?rect=0%2C0%2C800%2C450&auto=format%2Ccompress&w=1200"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://c.ndtvimg.com/2020-05/buqj4cr8_sachin-tendulkar-virat-kohli_625x300_31_May_20.jpg"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7tOOADSIHhTlMZAekBYY7POhFlJFc8WW1iaBtm1z0QJn_m74Q&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://c.ndtvimg.com/2020-04/t3ekkeko_virat-kohli-instagram_625x300_21_April_20.jpg"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://cdn.telanganatoday.com/wp-content/uploads/2020/04/Virat-Kohli-says-he-will-no.jpg"
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://cricketaddictor.com/wp-content/uploads/2019/09/37209-e1573556871489.jpg"
+    }
+  ]
+}

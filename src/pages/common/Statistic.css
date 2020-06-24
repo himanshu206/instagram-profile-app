@@ -1,0 +1,15 @@
+.statistic {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.statistic__title {
+  font-size: 0.8rem;
+  color: grey;
+}
+
+.statistic__value {
+  font-weight: 600;
+  font-size: 1.2rem;
+}

@@ -1,0 +1,13 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 3rem;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0.5rem;
+  background-color: whitesmoke;
+  border-top: 0.1rem solid lightgrey;
+}

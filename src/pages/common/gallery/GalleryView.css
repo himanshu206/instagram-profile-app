@@ -1,0 +1,18 @@
+.gallery-view {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.gallery-view__image-container {
+  height: 10rem;
+  width: 10rem;
+  padding: 0.1rem;
+  box-sizing: border-box;
+  transition: transform 0.2s ease-in;
+  cursor: pointer;
+}
+
+.gallery-view__image-container:hover {
+  transform: scale(1.02);
+}
